@@ -1,0 +1,251 @@
+,title,status,level,author
+0,Panduan Awal Menjadi Fullstack Web Developer,publish,beginner,Sandhika Galih
+1,Studi Kasus Web Geolocation dengan Laravel dan HERE Maps,publish,beginner,Ahmad Hakim
+2,Membangun Website Toko Online Berbasis CodeIgniter,publish,beginner,Ahmad Hakim
+3,Belajar Cepat Membuat Web App Berbasis React ,publish,beginner,Bagus Budi Cahyono
+4,Belajar Pemrograman PHP,publish,beginner,Toni Haryanto
+5,Menguasai Framework CodeIgniter 3,publish,beginner,Toni Haryanto
+6,Membuat Toko Online dengan Laravel LiveWire dan Payment Gateway,publish,intermediate,Ahmad Hakim
+7,Membuat Sistem Informasi Perpustakaan Menggunakan Laravel 6,publish,beginner,Muhammad Amirul Ihsan
+8,Membangun Website Modern dengan Vue.js 2,publish,beginner,Ahmad Hakim
+9,Membuat Aplikasi Presensi Android Berbasis Lokasi - Kotlin,publish,beginner,Aulia Rahman
+10,Menguasai Framework Laravel 8,publish,beginner,Ahmad Hakim
+11,Membuat Aplikasi E-learning di Android menggunakan Realtime Firebase - Kotlin,publish,intermediate,Aulia Rahman
+12,"Fullstack Tutorial MongoDB, Express, Vue, Node - Shopping Cart",publish,beginner,Ahmad Hakim
+13,Membuat REST API dengan Express.js dan MySQL - Studi Kasus Classified Ads,publish,beginner,Ahmad Hakim
+14,Pengenalan Machine Learning,publish,beginner,Nur Indah Pratiwi
+15,Aplikasi Pemasaran Produk Android OLX Clone - Kotlin,publish,intermediate,Aulia Rahman
+16,Dasar-dasar Framework Laravel 6,publish,intermediate,Muhammad Amirul Ihsan
+17,Membangun Web Donasi Online dengan Laravel dan Payment Gateway,publish,intermediate,Ahmad Hakim
+18,Membuat Website Company Profile dari Nol Sampai Online,publish,beginner,Aden Rahmandi
+19,Android Development Starter Pack - Java,publish,beginner,Aulia Rahman
+20,Membangun Aplikasi SPA Laravel VueJS dengan Fitur Authentikasi,publish,intermediate,Ahmad Hakim
+21,Cara Mudah Buat Toko Online Sendiri dengan Wordpress,publish,beginner,Toni Haryanto
+22,"Membangun Website Toko Online Menggunakan Laravel, Nuxt.js dan Payment Gateway",publish,beginner,Fika Ridaul Maulayya
+23,"Membangun Aplikasi Point Of Sales Kasir dengan Laravel, Inertia.js & Vue.js",publish,beginner,Fika Ridaul Maulayya
+24,Deploy Projek Machine Learning ke Cloud,publish,beginner,Nur Indah Pratiwi
+25,"Membangun Website Sekolah Dengan Laravel, Vue Js dan Bootstrap 5",publish,beginner,Fika Ridaul Maulayya
+26,Membangun RESTful API dengan Laravel Studi Kasus Blog,publish,intermediate,Ahmad Hakim
+27,Belajar Framework Laravel Studi Kasus Role Management,publish,intermediate,Ahmad Hakim
+28,Menguasai Framework Laravel 9,publish,beginner,Aldi Zainafif
+29,Memahami Cara Kerja Tim IT di Perusahaan yang Bekerja dari Rumah,publish,intermediate,Muhammad Singgih Z.A
+30,"Membangun Aplikasi Ujian Online (CBT) Dengan Laravel, Inertia.js & Vue.js",publish,beginner,Fika Ridaul Maulayya
+31,Membuat Aplikasi Android Manajemen Tugas - Kotlin,publish,beginner,Aulia Rahman
+32,Belajar Dasar HTML,publish,beginner,Ahmad Hakim
+33,Membuat Realtime Chatroom dengan Websocket Menggunakan Laravel dan Vue,publish,beginner,Ahmad Hakim
+34,Jago React Native dengan Membuat Movie App,publish,beginner,Hakim Sembiring Meliala
+35,Jago Fullstack JavaScript dengan Membuat Blog,publish,beginner,Hakim Sembiring Meliala
+36,Membuat Aplikasi Quiz dengan RecyclerView - Kotlin,publish,intermediate,Aulia Rahman
+37,Belajar JavaScript,publish,beginner,Ahmad Hakim
+38,1 Jam Bisa Membuat Game dengan Construct 3,publish,beginner,Ahmad Hakim
+39,Sistem Otentikasi API Berbasis OAuth dengan Laravel Passport,publish,intermediate,Ahmad Hakim
+40,Membuat Aplikasi Music Player di Android - Kotlin,publish,intermediate,Aulia Rahman
+41,Membuat Chat bot Pintar di Telegram : Studi kasus Bot Info Covid-19,publish,intermediate,Ahmad Hakim
+42,Belajar Membangun RESTful dengan Adonis.js,publish,beginner,Ahmad Hakim
+43,Optimasi Kinerja Laravel dengan Redis,publish,beginner,Ahmad Hakim
+44,"Membangun Toko Online Dengan Laravel, Vue Js dan Payment Gateway",publish,beginner,Fika Ridaul Maulayya
+45,Implementasi Firebase Auth di Android - Kotlin,publish,beginner,Aulia Rahman
+46,Membuat Website Profile Perusahaan Tanpa Coding dengan Mobirise,publish,beginner,Yusuf Fazeri
+47,Belajar Dasar CSS,publish,beginner,0
+48,Membangun Aplikasi Cek Ongkir Menggunakan Laravel,publish,intermediate,Ahmad Hakim
+49,Belajar Vue.js 3 dan Firebase Studi Kasus Blog,publish,beginner,Ahmad Hakim
+50,Panduan Awal Menjadi Fullstack Web Developer,publish,beginner,Sandhika Galih
+51,Studi Kasus Web Geolocation dengan Laravel dan HERE Maps,publish,beginner,Ahmad Hakim
+52,Membangun Website Toko Online Berbasis CodeIgniter,publish,beginner,Ahmad Hakim
+53,Belajar Cepat Membuat Web App Berbasis React ,publish,beginner,Bagus Budi Cahyono
+54,Belajar Pemrograman PHP,publish,beginner,Toni Haryanto
+55,Menguasai Framework CodeIgniter 3,publish,beginner,Toni Haryanto
+56,Membuat Toko Online dengan Laravel LiveWire dan Payment Gateway,publish,intermediate,Ahmad Hakim
+57,Membuat Sistem Informasi Perpustakaan Menggunakan Laravel 6,publish,beginner,Muhammad Amirul Ihsan
+58,Membangun Website Modern dengan Vue.js 2,publish,beginner,Ahmad Hakim
+59,Membuat Aplikasi Presensi Android Berbasis Lokasi - Kotlin,publish,beginner,Aulia Rahman
+60,Menguasai Framework Laravel 8,publish,beginner,Ahmad Hakim
+61,Membuat Aplikasi E-learning di Android menggunakan Realtime Firebase - Kotlin,publish,intermediate,Aulia Rahman
+62,"Fullstack Tutorial MongoDB, Express, Vue, Node - Shopping Cart",publish,beginner,Ahmad Hakim
+63,Membuat REST API dengan Express.js dan MySQL - Studi Kasus Classified Ads,publish,beginner,Ahmad Hakim
+64,Pengenalan Machine Learning,publish,beginner,Nur Indah Pratiwi
+65,Aplikasi Pemasaran Produk Android OLX Clone - Kotlin,publish,intermediate,Aulia Rahman
+66,Dasar-dasar Framework Laravel 6,publish,intermediate,Muhammad Amirul Ihsan
+67,Membangun Web Donasi Online dengan Laravel dan Payment Gateway,publish,intermediate,Ahmad Hakim
+68,Membuat Website Company Profile dari Nol Sampai Online,publish,beginner,Aden Rahmandi
+69,Android Development Starter Pack - Java,publish,beginner,Aulia Rahman
+70,Membangun Aplikasi SPA Laravel VueJS dengan Fitur Authentikasi,publish,intermediate,Ahmad Hakim
+71,Cara Mudah Buat Toko Online Sendiri dengan Wordpress,publish,beginner,Toni Haryanto
+72,"Membangun Website Toko Online Menggunakan Laravel, Nuxt.js dan Payment Gateway",publish,beginner,Fika Ridaul Maulayya
+73,"Membangun Aplikasi Point Of Sales Kasir dengan Laravel, Inertia.js & Vue.js",publish,beginner,Fika Ridaul Maulayya
+74,Deploy Projek Machine Learning ke Cloud,publish,beginner,Nur Indah Pratiwi
+75,"Membangun Website Sekolah Dengan Laravel, Vue Js dan Bootstrap 5",publish,beginner,Fika Ridaul Maulayya
+76,Membangun RESTful API dengan Laravel Studi Kasus Blog,publish,intermediate,Ahmad Hakim
+77,Belajar Framework Laravel Studi Kasus Role Management,publish,intermediate,Ahmad Hakim
+78,Menguasai Framework Laravel 9,publish,beginner,Aldi Zainafif
+79,Memahami Cara Kerja Tim IT di Perusahaan yang Bekerja dari Rumah,publish,intermediate,Muhammad Singgih Z.A
+80,"Membangun Aplikasi Ujian Online (CBT) Dengan Laravel, Inertia.js & Vue.js",publish,beginner,Fika Ridaul Maulayya
+81,Membuat Aplikasi Android Manajemen Tugas - Kotlin,publish,beginner,Aulia Rahman
+82,Belajar Dasar HTML,publish,beginner,Ahmad Hakim
+83,Membuat Realtime Chatroom dengan Websocket Menggunakan Laravel dan Vue,publish,beginner,Ahmad Hakim
+84,Jago React Native dengan Membuat Movie App,publish,beginner,Hakim Sembiring Meliala
+85,Jago Fullstack JavaScript dengan Membuat Blog,publish,beginner,Hakim Sembiring Meliala
+86,Membuat Aplikasi Quiz dengan RecyclerView - Kotlin,publish,intermediate,Aulia Rahman
+87,Belajar JavaScript,publish,beginner,Ahmad Hakim
+88,1 Jam Bisa Membuat Game dengan Construct 3,publish,beginner,Ahmad Hakim
+89,Sistem Otentikasi API Berbasis OAuth dengan Laravel Passport,publish,intermediate,Ahmad Hakim
+90,Membuat Aplikasi Music Player di Android - Kotlin,publish,intermediate,Aulia Rahman
+91,Membuat Chat bot Pintar di Telegram : Studi kasus Bot Info Covid-19,publish,intermediate,Ahmad Hakim
+92,Belajar Membangun RESTful dengan Adonis.js,publish,beginner,Ahmad Hakim
+93,Optimasi Kinerja Laravel dengan Redis,publish,beginner,Ahmad Hakim
+94,"Membangun Toko Online Dengan Laravel, Vue Js dan Payment Gateway",publish,beginner,Fika Ridaul Maulayya
+95,Implementasi Firebase Auth di Android - Kotlin,publish,beginner,Aulia Rahman
+96,Membuat Website Profile Perusahaan Tanpa Coding dengan Mobirise,publish,beginner,Yusuf Fazeri
+97,Belajar Dasar CSS,publish,beginner,0
+98,Membangun Aplikasi Cek Ongkir Menggunakan Laravel,publish,intermediate,Ahmad Hakim
+99,Belajar Vue.js 3 dan Firebase Studi Kasus Blog,publish,beginner,Ahmad Hakim
+100,Panduan Awal Menjadi Fullstack Web Developer,publish,beginner,Sandhika Galih
+101,Studi Kasus Web Geolocation dengan Laravel dan HERE Maps,publish,beginner,Ahmad Hakim
+102,Membangun Website Toko Online Berbasis CodeIgniter,publish,beginner,Ahmad Hakim
+103,Belajar Cepat Membuat Web App Berbasis React ,publish,beginner,Bagus Budi Cahyono
+104,Belajar Pemrograman PHP,publish,beginner,Toni Haryanto
+105,Menguasai Framework CodeIgniter 3,publish,beginner,Toni Haryanto
+106,Membuat Toko Online dengan Laravel LiveWire dan Payment Gateway,publish,intermediate,Ahmad Hakim
+107,Membuat Sistem Informasi Perpustakaan Menggunakan Laravel 6,publish,beginner,Muhammad Amirul Ihsan
+108,Membangun Website Modern dengan Vue.js 2,publish,beginner,Ahmad Hakim
+109,Membuat Aplikasi Presensi Android Berbasis Lokasi - Kotlin,publish,beginner,Aulia Rahman
+110,Menguasai Framework Laravel 8,publish,beginner,Ahmad Hakim
+111,Membuat Aplikasi E-learning di Android menggunakan Realtime Firebase - Kotlin,publish,intermediate,Aulia Rahman
+112,"Fullstack Tutorial MongoDB, Express, Vue, Node - Shopping Cart",publish,beginner,Ahmad Hakim
+113,Membuat REST API dengan Express.js dan MySQL - Studi Kasus Classified Ads,publish,beginner,Ahmad Hakim
+114,Pengenalan Machine Learning,publish,beginner,Nur Indah Pratiwi
+115,Aplikasi Pemasaran Produk Android OLX Clone - Kotlin,publish,intermediate,Aulia Rahman
+116,Dasar-dasar Framework Laravel 6,publish,intermediate,Muhammad Amirul Ihsan
+117,Membangun Web Donasi Online dengan Laravel dan Payment Gateway,publish,intermediate,Ahmad Hakim
+118,Membuat Website Company Profile dari Nol Sampai Online,publish,beginner,Aden Rahmandi
+119,Android Development Starter Pack - Java,publish,beginner,Aulia Rahman
+120,Membangun Aplikasi SPA Laravel VueJS dengan Fitur Authentikasi,publish,intermediate,Ahmad Hakim
+121,Cara Mudah Buat Toko Online Sendiri dengan Wordpress,publish,beginner,Toni Haryanto
+122,"Membangun Website Toko Online Menggunakan Laravel, Nuxt.js dan Payment Gateway",publish,beginner,Fika Ridaul Maulayya
+123,"Membangun Aplikasi Point Of Sales Kasir dengan Laravel, Inertia.js & Vue.js",publish,beginner,Fika Ridaul Maulayya
+124,Deploy Projek Machine Learning ke Cloud,publish,beginner,Nur Indah Pratiwi
+125,"Membangun Website Sekolah Dengan Laravel, Vue Js dan Bootstrap 5",publish,beginner,Fika Ridaul Maulayya
+126,Membangun RESTful API dengan Laravel Studi Kasus Blog,publish,intermediate,Ahmad Hakim
+127,Belajar Framework Laravel Studi Kasus Role Management,publish,intermediate,Ahmad Hakim
+128,Menguasai Framework Laravel 9,publish,beginner,Aldi Zainafif
+129,Memahami Cara Kerja Tim IT di Perusahaan yang Bekerja dari Rumah,publish,intermediate,Muhammad Singgih Z.A
+130,"Membangun Aplikasi Ujian Online (CBT) Dengan Laravel, Inertia.js & Vue.js",publish,beginner,Fika Ridaul Maulayya
+131,Membuat Aplikasi Android Manajemen Tugas - Kotlin,publish,beginner,Aulia Rahman
+132,Belajar Dasar HTML,publish,beginner,Ahmad Hakim
+133,Membuat Realtime Chatroom dengan Websocket Menggunakan Laravel dan Vue,publish,beginner,Ahmad Hakim
+134,Jago React Native dengan Membuat Movie App,publish,beginner,Hakim Sembiring Meliala
+135,Jago Fullstack JavaScript dengan Membuat Blog,publish,beginner,Hakim Sembiring Meliala
+136,Membuat Aplikasi Quiz dengan RecyclerView - Kotlin,publish,intermediate,Aulia Rahman
+137,Belajar JavaScript,publish,beginner,Ahmad Hakim
+138,1 Jam Bisa Membuat Game dengan Construct 3,publish,beginner,Ahmad Hakim
+139,Sistem Otentikasi API Berbasis OAuth dengan Laravel Passport,publish,intermediate,Ahmad Hakim
+140,Membuat Aplikasi Music Player di Android - Kotlin,publish,intermediate,Aulia Rahman
+141,Membuat Chat bot Pintar di Telegram : Studi kasus Bot Info Covid-19,publish,intermediate,Ahmad Hakim
+142,Belajar Membangun RESTful dengan Adonis.js,publish,beginner,Ahmad Hakim
+143,Optimasi Kinerja Laravel dengan Redis,publish,beginner,Ahmad Hakim
+144,"Membangun Toko Online Dengan Laravel, Vue Js dan Payment Gateway",publish,beginner,Fika Ridaul Maulayya
+145,Implementasi Firebase Auth di Android - Kotlin,publish,beginner,Aulia Rahman
+146,Membuat Website Profile Perusahaan Tanpa Coding dengan Mobirise,publish,beginner,Yusuf Fazeri
+147,Belajar Dasar CSS,publish,beginner,0
+148,Membangun Aplikasi Cek Ongkir Menggunakan Laravel,publish,intermediate,Ahmad Hakim
+149,Belajar Vue.js 3 dan Firebase Studi Kasus Blog,publish,beginner,Ahmad Hakim
+150,Panduan Awal Menjadi Fullstack Web Developer,publish,beginner,Sandhika Galih
+151,Studi Kasus Web Geolocation dengan Laravel dan HERE Maps,publish,beginner,Ahmad Hakim
+152,Membangun Website Toko Online Berbasis CodeIgniter,publish,beginner,Ahmad Hakim
+153,Belajar Cepat Membuat Web App Berbasis React ,publish,beginner,Bagus Budi Cahyono
+154,Belajar Pemrograman PHP,publish,beginner,Toni Haryanto
+155,Menguasai Framework CodeIgniter 3,publish,beginner,Toni Haryanto
+156,Membuat Toko Online dengan Laravel LiveWire dan Payment Gateway,publish,intermediate,Ahmad Hakim
+157,Membuat Sistem Informasi Perpustakaan Menggunakan Laravel 6,publish,beginner,Muhammad Amirul Ihsan
+158,Membangun Website Modern dengan Vue.js 2,publish,beginner,Ahmad Hakim
+159,Membuat Aplikasi Presensi Android Berbasis Lokasi - Kotlin,publish,beginner,Aulia Rahman
+160,Menguasai Framework Laravel 8,publish,beginner,Ahmad Hakim
+161,Membuat Aplikasi E-learning di Android menggunakan Realtime Firebase - Kotlin,publish,intermediate,Aulia Rahman
+162,"Fullstack Tutorial MongoDB, Express, Vue, Node - Shopping Cart",publish,beginner,Ahmad Hakim
+163,Membuat REST API dengan Express.js dan MySQL - Studi Kasus Classified Ads,publish,beginner,Ahmad Hakim
+164,Pengenalan Machine Learning,publish,beginner,Nur Indah Pratiwi
+165,Aplikasi Pemasaran Produk Android OLX Clone - Kotlin,publish,intermediate,Aulia Rahman
+166,Dasar-dasar Framework Laravel 6,publish,intermediate,Muhammad Amirul Ihsan
+167,Membangun Web Donasi Online dengan Laravel dan Payment Gateway,publish,intermediate,Ahmad Hakim
+168,Membuat Website Company Profile dari Nol Sampai Online,publish,beginner,Aden Rahmandi
+169,Android Development Starter Pack - Java,publish,beginner,Aulia Rahman
+170,Membangun Aplikasi SPA Laravel VueJS dengan Fitur Authentikasi,publish,intermediate,Ahmad Hakim
+171,Cara Mudah Buat Toko Online Sendiri dengan Wordpress,publish,beginner,Toni Haryanto
+172,"Membangun Website Toko Online Menggunakan Laravel, Nuxt.js dan Payment Gateway",publish,beginner,Fika Ridaul Maulayya
+173,"Membangun Aplikasi Point Of Sales Kasir dengan Laravel, Inertia.js & Vue.js",publish,beginner,Fika Ridaul Maulayya
+174,Deploy Projek Machine Learning ke Cloud,publish,beginner,Nur Indah Pratiwi
+175,"Membangun Website Sekolah Dengan Laravel, Vue Js dan Bootstrap 5",publish,beginner,Fika Ridaul Maulayya
+176,Membangun RESTful API dengan Laravel Studi Kasus Blog,publish,intermediate,Ahmad Hakim
+177,Belajar Framework Laravel Studi Kasus Role Management,publish,intermediate,Ahmad Hakim
+178,Menguasai Framework Laravel 9,publish,beginner,Aldi Zainafif
+179,Memahami Cara Kerja Tim IT di Perusahaan yang Bekerja dari Rumah,publish,intermediate,Muhammad Singgih Z.A
+180,"Membangun Aplikasi Ujian Online (CBT) Dengan Laravel, Inertia.js & Vue.js",publish,beginner,Fika Ridaul Maulayya
+181,Membuat Aplikasi Android Manajemen Tugas - Kotlin,publish,beginner,Aulia Rahman
+182,Belajar Dasar HTML,publish,beginner,Ahmad Hakim
+183,Membuat Realtime Chatroom dengan Websocket Menggunakan Laravel dan Vue,publish,beginner,Ahmad Hakim
+184,Jago React Native dengan Membuat Movie App,publish,beginner,Hakim Sembiring Meliala
+185,Jago Fullstack JavaScript dengan Membuat Blog,publish,beginner,Hakim Sembiring Meliala
+186,Membuat Aplikasi Quiz dengan RecyclerView - Kotlin,publish,intermediate,Aulia Rahman
+187,Belajar JavaScript,publish,beginner,Ahmad Hakim
+188,1 Jam Bisa Membuat Game dengan Construct 3,publish,beginner,Ahmad Hakim
+189,Sistem Otentikasi API Berbasis OAuth dengan Laravel Passport,publish,intermediate,Ahmad Hakim
+190,Membuat Aplikasi Music Player di Android - Kotlin,publish,intermediate,Aulia Rahman
+191,Membuat Chat bot Pintar di Telegram : Studi kasus Bot Info Covid-19,publish,intermediate,Ahmad Hakim
+192,Belajar Membangun RESTful dengan Adonis.js,publish,beginner,Ahmad Hakim
+193,Optimasi Kinerja Laravel dengan Redis,publish,beginner,Ahmad Hakim
+194,"Membangun Toko Online Dengan Laravel, Vue Js dan Payment Gateway",publish,beginner,Fika Ridaul Maulayya
+195,Implementasi Firebase Auth di Android - Kotlin,publish,beginner,Aulia Rahman
+196,Membuat Website Profile Perusahaan Tanpa Coding dengan Mobirise,publish,beginner,Yusuf Fazeri
+197,Belajar Dasar CSS,publish,beginner,0
+198,Membangun Aplikasi Cek Ongkir Menggunakan Laravel,publish,intermediate,Ahmad Hakim
+199,Belajar Vue.js 3 dan Firebase Studi Kasus Blog,publish,beginner,Ahmad Hakim
+200,Panduan Awal Menjadi Fullstack Web Developer,publish,beginner,Sandhika Galih
+201,Studi Kasus Web Geolocation dengan Laravel dan HERE Maps,publish,beginner,Ahmad Hakim
+202,Membangun Website Toko Online Berbasis CodeIgniter,publish,beginner,Ahmad Hakim
+203,Belajar Cepat Membuat Web App Berbasis React ,publish,beginner,Bagus Budi Cahyono
+204,Belajar Pemrograman PHP,publish,beginner,Toni Haryanto
+205,Menguasai Framework CodeIgniter 3,publish,beginner,Toni Haryanto
+206,Membuat Toko Online dengan Laravel LiveWire dan Payment Gateway,publish,intermediate,Ahmad Hakim
+207,Membuat Sistem Informasi Perpustakaan Menggunakan Laravel 6,publish,beginner,Muhammad Amirul Ihsan
+208,Membangun Website Modern dengan Vue.js 2,publish,beginner,Ahmad Hakim
+209,Membuat Aplikasi Presensi Android Berbasis Lokasi - Kotlin,publish,beginner,Aulia Rahman
+210,Menguasai Framework Laravel 8,publish,beginner,Ahmad Hakim
+211,Membuat Aplikasi E-learning di Android menggunakan Realtime Firebase - Kotlin,publish,intermediate,Aulia Rahman
+212,"Fullstack Tutorial MongoDB, Express, Vue, Node - Shopping Cart",publish,beginner,Ahmad Hakim
+213,Membuat REST API dengan Express.js dan MySQL - Studi Kasus Classified Ads,publish,beginner,Ahmad Hakim
+214,Pengenalan Machine Learning,publish,beginner,Nur Indah Pratiwi
+215,Aplikasi Pemasaran Produk Android OLX Clone - Kotlin,publish,intermediate,Aulia Rahman
+216,Dasar-dasar Framework Laravel 6,publish,intermediate,Muhammad Amirul Ihsan
+217,Membangun Web Donasi Online dengan Laravel dan Payment Gateway,publish,intermediate,Ahmad Hakim
+218,Membuat Website Company Profile dari Nol Sampai Online,publish,beginner,Aden Rahmandi
+219,Android Development Starter Pack - Java,publish,beginner,Aulia Rahman
+220,Membangun Aplikasi SPA Laravel VueJS dengan Fitur Authentikasi,publish,intermediate,Ahmad Hakim
+221,Cara Mudah Buat Toko Online Sendiri dengan Wordpress,publish,beginner,Toni Haryanto
+222,"Membangun Website Toko Online Menggunakan Laravel, Nuxt.js dan Payment Gateway",publish,beginner,Fika Ridaul Maulayya
+223,"Membangun Aplikasi Point Of Sales Kasir dengan Laravel, Inertia.js & Vue.js",publish,beginner,Fika Ridaul Maulayya
+224,Deploy Projek Machine Learning ke Cloud,publish,beginner,Nur Indah Pratiwi
+225,"Membangun Website Sekolah Dengan Laravel, Vue Js dan Bootstrap 5",publish,beginner,Fika Ridaul Maulayya
+226,Membangun RESTful API dengan Laravel Studi Kasus Blog,publish,intermediate,Ahmad Hakim
+227,Belajar Framework Laravel Studi Kasus Role Management,publish,intermediate,Ahmad Hakim
+228,Menguasai Framework Laravel 9,publish,beginner,Aldi Zainafif
+229,Memahami Cara Kerja Tim IT di Perusahaan yang Bekerja dari Rumah,publish,intermediate,Muhammad Singgih Z.A
+230,"Membangun Aplikasi Ujian Online (CBT) Dengan Laravel, Inertia.js & Vue.js",publish,beginner,Fika Ridaul Maulayya
+231,Membuat Aplikasi Android Manajemen Tugas - Kotlin,publish,beginner,Aulia Rahman
+232,Belajar Dasar HTML,publish,beginner,Ahmad Hakim
+233,Membuat Realtime Chatroom dengan Websocket Menggunakan Laravel dan Vue,publish,beginner,Ahmad Hakim
+234,Jago React Native dengan Membuat Movie App,publish,beginner,Hakim Sembiring Meliala
+235,Jago Fullstack JavaScript dengan Membuat Blog,publish,beginner,Hakim Sembiring Meliala
+236,Membuat Aplikasi Quiz dengan RecyclerView - Kotlin,publish,intermediate,Aulia Rahman
+237,Belajar JavaScript,publish,beginner,Ahmad Hakim
+238,1 Jam Bisa Membuat Game dengan Construct 3,publish,beginner,Ahmad Hakim
+239,Sistem Otentikasi API Berbasis OAuth dengan Laravel Passport,publish,intermediate,Ahmad Hakim
+240,Membuat Aplikasi Music Player di Android - Kotlin,publish,intermediate,Aulia Rahman
+241,Membuat Chat bot Pintar di Telegram : Studi kasus Bot Info Covid-19,publish,intermediate,Ahmad Hakim
+242,Belajar Membangun RESTful dengan Adonis.js,publish,beginner,Ahmad Hakim
+243,Optimasi Kinerja Laravel dengan Redis,publish,beginner,Ahmad Hakim
+244,"Membangun Toko Online Dengan Laravel, Vue Js dan Payment Gateway",publish,beginner,Fika Ridaul Maulayya
+245,Implementasi Firebase Auth di Android - Kotlin,publish,beginner,Aulia Rahman
+246,Membuat Website Profile Perusahaan Tanpa Coding dengan Mobirise,publish,beginner,Yusuf Fazeri
+247,Belajar Dasar CSS,publish,beginner,0
+248,Membangun Aplikasi Cek Ongkir Menggunakan Laravel,publish,intermediate,Ahmad Hakim
+249,Belajar Vue.js 3 dan Firebase Studi Kasus Blog,publish,beginner,Ahmad Hakim
